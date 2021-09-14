@@ -1,0 +1,25 @@
+kitu klavisu siame folderyje --> git bush here
+
+
+
+
+
+git add .
+
+git commit -m "pridejau nd 1.1"
+
+git push origin master
+
+
+
+
+
+
+nukopijuoji nuoroda is browser is folderio, kuris su naujais nd --> eini i vilnius coding uzduoti 
+--> add on create
+
+
+
+
+atlikus pokyti, is naujo jungi folderi nuo desctopo Csharp, vel suvedi tuos 3 
+(antrame parasai koks pokytis atliktas)

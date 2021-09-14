@@ -16,7 +16,7 @@ namespace Homework1._1
             double s = Math.PI * radius * radius;  // plotas
 
             Console.WriteLine($"Apskrititimo ilgis yra: {c}");
-            Console.WriteLine($"Apskrititimo plotas yra: {s}");
+            Console.WriteLine($"Apskritimo plotas yra: {s}");
 
         }
     }
