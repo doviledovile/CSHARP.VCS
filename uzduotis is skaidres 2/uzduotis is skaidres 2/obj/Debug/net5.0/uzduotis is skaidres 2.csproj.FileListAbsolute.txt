@@ -1,0 +1,16 @@
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.exe
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.deps.json
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.runtimeconfig.json
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.runtimeconfig.dev.json
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.dll
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\ref\uzduotis is skaidres 2.dll
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\bin\Debug\net5.0\uzduotis is skaidres 2.pdb
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.csproj.AssemblyReference.cache
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.AssemblyInfoInputs.cache
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.AssemblyInfo.cs
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.csproj.CoreCompileInputs.cache
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.dll
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\ref\uzduotis is skaidres 2.dll
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.pdb
+C:\Users\dozak\source\repos\uzduotis is skaidres 2\uzduotis is skaidres 2\obj\Debug\net5.0\uzduotis is skaidres 2.genruntimeconfig.cache

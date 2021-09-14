@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerimai", "Gerimai\Gerimai.csproj", "{F2205DC2-C504-4BCC-8FE2-B20A762B52C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2205DC2-C504-4BCC-8FE2-B20A762B52C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2205DC2-C504-4BCC-8FE2-B20A762B52C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2205DC2-C504-4BCC-8FE2-B20A762B52C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2205DC2-C504-4BCC-8FE2-B20A762B52C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF23E86-959F-4E9A-99DB-6A192E820D93}
+	EndGlobalSection
+EndGlobal

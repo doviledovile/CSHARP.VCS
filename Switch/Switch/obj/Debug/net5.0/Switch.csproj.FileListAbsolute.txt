@@ -1,0 +1,16 @@
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.exe
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.deps.json
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.dll
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\ref\Switch.dll
+C:\Users\dozak\source\repos\Switch\Switch\bin\Debug\net5.0\Switch.pdb
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.csproj.AssemblyReference.cache
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.dll
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\ref\Switch.dll
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.pdb
+C:\Users\dozak\source\repos\Switch\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache
