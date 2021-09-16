@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dozak\\source\\repos\\Gerimai\\Gerimai\\Gerimai.csproj",
+      "projectUniqueName": "C:\\Users\\dozak\\Desktop\\CSharp\\Gerimai\\Gerimai\\Gerimai.csproj",
       "projectName": "Gerimai",
-      "projectPath": "C:\\Users\\dozak\\source\\repos\\Gerimai\\Gerimai\\Gerimai.csproj",
+      "projectPath": "C:\\Users\\dozak\\Desktop\\CSharp\\Gerimai\\Gerimai\\Gerimai.csproj",
       "packagesPath": "C:\\Users\\dozak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dozak\\source\\repos\\Gerimai\\Gerimai\\obj\\",
+      "outputPath": "C:\\Users\\dozak\\Desktop\\CSharp\\Gerimai\\Gerimai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dozak\\AppData\\Roaming\\NuGet\\NuGet.Config",

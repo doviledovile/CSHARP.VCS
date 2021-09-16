@@ -1,0 +1,16 @@
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.csproj.AssemblyReference.cache
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.AssemblyInfoInputs.cache
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.AssemblyInfo.cs
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.csproj.CoreCompileInputs.cache
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.exe
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.deps.json
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.runtimeconfig.json
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.runtimeconfig.dev.json
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.dll
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\ref\Gerimai.dll
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\bin\Debug\net5.0\Gerimai.pdb
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.dll
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\ref\Gerimai.dll
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.pdb
+C:\Users\dozak\Desktop\CSharp\Gerimai\Gerimai\obj\Debug\net5.0\Gerimai.genruntimeconfig.cache

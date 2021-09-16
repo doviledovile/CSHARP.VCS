@@ -16,7 +16,7 @@ namespace Gerimai
                     break;
                 case "2":
                     options = "arbata";
-                    brake;
+                    break;
                 case "3":
                     options = "kakava";
                     break;
@@ -26,8 +26,16 @@ namespace Gerimai
                 case "5":
                     options = "nieko";
                     break;
+               
                 default:
-                   
+
+                    if(options != "")
+                    {
+                        Console.WriteLine ("Jus pasirinkote: " + options);
+                        {
+
+                        }
+                    }   
                    
 
             }
