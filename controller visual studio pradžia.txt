@@ -1,0 +1,29 @@
+atsidarai tą patį dotNetCore projektą
+-->
+desineje kitu klavisu ant controller 
+-->
+new
+--> 
+controller
+--> 
+API empty
+-->
+pradzia pakeiti pavadinimo, pvz Arrays ar ka darysi
+--> 
+visada ivedi
+-->
+
+
+
+    {
+
+        [HttpGet]  
+        public IActionResult TryArrays ()  
+        {
+
+            return new OkObjectResult("");  
+        }
+
+
+    }
+}
