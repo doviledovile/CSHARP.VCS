@@ -1,0 +1,12 @@
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Projektas.exe
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Projektas.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Projektas.deps.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Projektas.runtimeconfig.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Projektas.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Projektas\Projektas\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

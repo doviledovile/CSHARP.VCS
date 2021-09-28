@@ -1,0 +1,21 @@
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.exe
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.deps.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.runtimeconfig.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.runtimeconfig.dev.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\bin\Debug\netcoreapp3.1\Uzduotis 6.1.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.csproj.AssemblyReference.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.AssemblyInfoInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.AssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.csproj.CoreCompileInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\staticwebassets\Uzduotis 6.1.StaticWebAssets.Manifest.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\staticwebassets\Uzduotis 6.1.StaticWebAssets.xml
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Uzduotis 6.1.styles.css
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.RazorTargetAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\Uzduotis 6.1\obj\Debug\netcoreapp3.1\Uzduotis 6.1.genruntimeconfig.cache

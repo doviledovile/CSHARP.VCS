@@ -1,0 +1,10 @@
+servisa sukuri, tiksliau vadinasi projektas. File --> new --> project
+
+sukuri nauja projekta, pavadinimu uzduoties skaiciu
+
+pasirenki rakteli API
+
+5 versija, ne 3
+
+tada kuri controller su pavadinimu, apibudinanciu apie ka uzduotis (pvz., NamesController.cs)
+PALIEKI CONTROLLERS PAVADINIME

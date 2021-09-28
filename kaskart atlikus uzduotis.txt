@@ -15,8 +15,8 @@ git push origin master
 
 
 
-nukopijuoji nuoroda is browser is folderio, kuris su naujais nd --> eini i vilnius coding uzduoti 
---> add on create
+nukopijuoji nuoroda is browser is folderio, kuris su naujais nd --> eini i vilnius coding uzduoti klaseje 
+--> add on create (ikeli i tam tikros uzduoties tab'ą)
 
 
 

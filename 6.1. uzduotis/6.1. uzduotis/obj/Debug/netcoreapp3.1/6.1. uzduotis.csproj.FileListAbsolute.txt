@@ -1,0 +1,38 @@
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.exe
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.deps.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.runtimeconfig.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.runtimeconfig.dev.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.Views.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\bin\Debug\netcoreapp3.1\6.1. uzduotis.Views.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.csproj.AssemblyReference.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.AssemblyInfoInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.AssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.RazorAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.RazorAssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\staticwebassets\6.1. uzduotis.StaticWebAssets.Manifest.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\staticwebassets\6.1. uzduotis.StaticWebAssets.xml
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\scopedcss\bundle\6.1. uzduotis.styles.css
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.TagHelpers.input.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.TagHelpers.output.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.RazorCoreGenerate.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.RazorTargetAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.RazorTargetAssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.Views.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.genruntimeconfig.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.1. uzduotis\6.1. uzduotis\obj\Debug\netcoreapp3.1\6.1. uzduotis.csproj.CopyComplete

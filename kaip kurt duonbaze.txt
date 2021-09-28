@@ -1,0 +1,5 @@
+data bases 
+my sql
+trys taskai desinej
+php my admin
+prisijungi su senais duomenim (serveris mano)

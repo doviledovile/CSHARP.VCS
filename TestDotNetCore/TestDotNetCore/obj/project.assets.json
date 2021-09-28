@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dozak\\.nuget\\packages\\": {}
+    "C:\\Users\\dzakarauskaite\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dozak\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\TestDotNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\dzakarauskaite\\OneDrive - barbora.lt\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\TestDotNetCore.csproj",
       "projectName": "TestDotNetCore",
-      "projectPath": "C:\\Users\\dozak\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\TestDotNetCore.csproj",
-      "packagesPath": "C:\\Users\\dozak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dozak\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\obj\\",
+      "projectPath": "C:\\Users\\dzakarauskaite\\OneDrive - barbora.lt\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\TestDotNetCore.csproj",
+      "packagesPath": "C:\\Users\\dzakarauskaite\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dzakarauskaite\\OneDrive - barbora.lt\\Desktop\\CSharp\\TestDotNetCore\\TestDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dozak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dzakarauskaite\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -254,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

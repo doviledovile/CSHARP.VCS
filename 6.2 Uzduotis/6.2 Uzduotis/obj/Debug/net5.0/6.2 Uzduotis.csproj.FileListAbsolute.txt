@@ -1,0 +1,29 @@
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.csproj.AssemblyReference.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.AssemblyInfoInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.AssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\appsettings.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.exe
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.deps.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.runtimeconfig.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.runtimeconfig.dev.json
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\ref\6.2 Uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\6.2 Uzduotis.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\staticwebassets\6.2 Uzduotis.StaticWebAssets.Manifest.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\staticwebassets\6.2 Uzduotis.StaticWebAssets.xml
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\scopedcss\bundle\6.2 Uzduotis.styles.css
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.RazorTargetAssemblyInfo.cache
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.csproj.CopyComplete
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\ref\6.2 Uzduotis.dll
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.pdb
+C:\Users\dzakarauskaite\OneDrive - barbora.lt\Desktop\CSharp\6.2 Uzduotis\6.2 Uzduotis\obj\Debug\net5.0\6.2 Uzduotis.genruntimeconfig.cache
